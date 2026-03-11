@@ -15,7 +15,7 @@ insertionSort(nums)
 print(nums)
     
 
-# test 
+# test
 """
 psuedocode:
 
