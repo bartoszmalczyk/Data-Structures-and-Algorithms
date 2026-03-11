@@ -15,7 +15,6 @@ insertionSort(nums)
 print(nums)
     
 
-# testdasdsad
 """
 psuedocode:
 
