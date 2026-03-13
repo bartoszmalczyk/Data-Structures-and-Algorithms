@@ -11,8 +11,8 @@ def insertionSort(nums):
         nums[j + 1] = key
 
 nums = [23, 1, 10, 5, 2]
-insertionSort(nums)
-print(nums)
+
+
     
 
 """
