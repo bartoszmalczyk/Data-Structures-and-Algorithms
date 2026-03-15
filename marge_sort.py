@@ -13,7 +13,7 @@ def merge(leftArray, rightArray, array):
     leftSize = len(leftArray)
     rightSize = len(rightArray)
     i, l, r = 0, 0, 0
-    while l < leftSize and r < rightSize:
+    while l < leftSize and r <  rightSize:
         if leftArray[l] < rightArray[r]:
             array[i] = leftArray[l]
             l+=1
