@@ -18,3 +18,14 @@ if __name__ == "__main__":
     print("Sorted array: ", end="")
     print(arr)
 
+"""
+PSEUDOCODE
+def selection_sort(nums):
+    n = nums.length()
+    for i in range(1 ... n):
+        index = i
+        for j in range(i ... n):
+            if nums[j] < nums[index]:
+                index = j
+        swap(index, i)
+"""
